@@ -1,4 +1,4 @@
-# Snakepit
+# :snake:Snakepit
 
 Snakepit is a machine learning job scheduler with the following features:
 - Scheduling of concurrent machine learning jobs
