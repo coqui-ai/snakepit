@@ -343,8 +343,10 @@ As you can see, a Snakepit container name (with the exception of Snakepit's serv
 * "&lt;pit-number&gt;-": The pit number which is also the job number.
 * "&lt;process-specifier&gt;": "d" in case of the pit's daemon and the process/worker index in case of a worker process.
 
-## Help
+## Help + Community
 
-1. [**IRC**](https://wiki.mozilla.org/IRC) - You can contact us on the `#machinelearning` channel on [Mozilla IRC](https://wiki.mozilla.org/IRC); people there can try to answer/help
+1. [Github Discussions](https://github.com/coqui-ai/snakepit/discussions/) - find and join open-ended community discussions related to :frog:'s snakepit
 
-2. [**Issues**](https://github.com/mozilla/snakepit/issues) - If you think you ran into a serious problem, feel free to open an issue in our repo.
+2. [Matrix Chat](https://matrix.to/#/+coqui:matrix.org) - the :frog: Matrix channel where you can chat with folks about :snake: snakepit, get help, share ideas :)
+
+3. [Github Issues](https://github.com/coqui-ai/stt/issues) - If you ran into a specific error/problem, feel free to open an issue in the repo.
