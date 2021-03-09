@@ -1,4 +1,4 @@
-# :snake:Snakepit
+# 🐍 Snakepit
 
 Snakepit is a machine learning job scheduler with the following features:
 - Scheduling of concurrent machine learning jobs
@@ -345,8 +345,8 @@ As you can see, a Snakepit container name (with the exception of Snakepit's serv
 
 ## Help + Community
 
-1. [Github Discussions](https://github.com/coqui-ai/snakepit/discussions/) - find and join open-ended community discussions related to :frog:'s snakepit
+1. [Github Discussions](https://github.com/coqui-ai/snakepit/discussions/) - find and join open-ended community discussions related to 🐸's snakepit
 
-2. [Matrix Chat](https://matrix.to/#/+coqui:matrix.org) - the :frog: Matrix channel where you can chat with folks about :snake: snakepit, get help, share ideas :)
+2. [Matrix Chat](https://matrix.to/#/+coqui:matrix.org) - the 🐸 Matrix channel where you can chat with folks about 🐍 snakepit, get help, share ideas :)
 
 3. [Github Issues](https://github.com/coqui-ai/stt/issues) - If you ran into a specific error/problem, feel free to open an issue in the repo.
