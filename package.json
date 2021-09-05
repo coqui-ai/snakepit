@@ -37,7 +37,7 @@
     "assign-deep": "^1.0.1",
     "async": "^2.6.1",
     "async-parallel": "^1.2.3",
-    "axios": "^0.18.1",
+    "axios": "^0.21.3",
     "bcrypt": "^3.0.6",
     "body-parser": "^1.18.3",
     "buffer-serializer": "^1.1.0",
